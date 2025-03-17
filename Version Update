@@ -1,4 +1,16 @@
-Please update version and changes in this file
+Please update version and changes in this file USING SEMANTIC VERSIONING.
 
-v0.0.0
+Semantic Versioning:
+Given a version number MAJOR.MINOR.PATCH, increment the:
+1. MAJOR version when you make incompatible API changes
+2. MINOR version when you add functionality in a backward compatible manner
+3. PATCH version when you make backward compatible bug fixes
+Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+
+Example of Semantic Versioning (MAJOR.MINOR.PATCH): using iOS as an example
+iOS 18.3.2
+
+Put update changes start from here:
+
+0.0.0
 Environment built
